@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.25)  26 JAN 2017 10:37
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.1.25)  26 JAN 2017 10:43
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -943,12 +943,12 @@ my insertion and my current dilemma will both disappear.
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
  (/home/gs/Documents/Notes/BIOL200S17/.latex/BIOL_Jan2417.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 202.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 217.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 217.
  ) 
 Here is how much of TeX's memory you used:
  23500 strings out of 493638

@@ -14,7 +14,7 @@
         4.  C-C
         5.  C=C
 
-## 2ndary structure's rules
+## 2ndarystructure's rules
 
 1.  Xray diffraction: interatomic bond distances, angles of amino acids chains.
 2.  Theoreticral analysis of angles
@@ -46,3 +46,40 @@
     -   Fully extended.
     -   Antiparallel arrangemet of adjacent betastrands.
     -   Adjacent polypeptide strands an be parallel or antiparallel.
+10. Folding
+    -   Fewer than 1/billion random polypeptides folds into organized structures.
+    -   Folding energy is low; most protein close to unfolded state.
+    -   Genes encoded for folding seleted by evolution.
+    -   Folded diffently every time.
+11. Particular 3D _motifs/domain_ in secondary structures; associated with particula functions.
+    1.  Helixloophelix
+        -   Coordinate **negatively** ions amongst them
+        -   Calmodulin changes confirmation dramatically when binded to Ca+ ions.
+    2.  Zinc fingers; some transcription proteins have _multiple_ zingfingers.
+    3.  Coiled-coiled
+        -   Appear in proteins with diverse functions.
+    4. SH2 and SH3 motifs
+      - SH2 binds **pY**
+      - SH3 binds **poly-P**
+
+### Signaltransduction (part of supersecondarymotiff)
+
+1. How proteins in cytoplasm knows someting has bouded to external face of membrane bound receptor?
+  - Ligand binding may induce _dimerization_ or _oligomerization_
+    - May induce conformational changes.
+2. How insulin relates to diabetes?
+  - P-zation of insulin receptor at Y residues allows these following to bind:
+  - **GRB2**
+  - **IRS1**
+  - **PIP**
+  - _**Look into insulin signaling**_
+3. Adapter protein
+  - **Pope of protein**
+  - Functions as scaffold; making linkages with SH2, PTB, SH32 etc.
+  - Bring substrates into contact with enzyme.
+
+### Tertiarystructure
+
+1. _Fibrous_ and _globular_ proteins.
+  - Membrane protein is such example.
+2. **GPCR**, or **Seven membranespanningprotein** in Rhodopsin.

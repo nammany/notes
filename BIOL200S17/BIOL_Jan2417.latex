@@ -197,6 +197,21 @@
   \item
     Adjacent polypeptide strands an be parallel or antiparallel.
   \end{itemize}
+\item
+  Folding
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Fewer than 1/billion random polypeptides folds into organized
+    structures.
+  \item
+    Folding energy is low; most protein close to unfolded state.
+  \item
+    Genes encoded for folding seleted by evolution.
+  \item
+    Folded diffently every time.
+  \end{itemize}
 \end{enumerate}
 
 \end{document}

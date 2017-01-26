@@ -24,3 +24,25 @@
         2.  \psi
 4.  Alpha-helix with **3.6** amino acids/turn
     -   Rise from one alphacarbon-alphacarbond is 1.5 angstrom
+
+## Jan 26, 2017
+
+5.  Pitch is 5.4 Angstrom
+6.  Linus' mistake<br\>
+    -   L steriomer
+    -   Rght handed helix
+7.  Helix or not?
+    1.  Similarly charged residues disrupts helixformation.
+    2.  If too many large aminoacids consecutively, helix disrupted.
+    3.  Bonding between R groups 3-4 residues apart stabilize.
+    4.  P destabilizes helix; **Proline destabilizes**.
+    5.  Negative N terminus, positive C terminus stabilizes helix.
+        -   Leads to dipole across peptide bond.
+8.  Circular dichroism
+    -   Random coil, betasheet, alphahelix interact with light differently.
+    -   Measures amount of secondary structures.
+9.  Betasheet
+    -   3.5 angstrom between adjacent amino acids, vs. 1.5 in alphahelix.
+    -   Fully extended.
+    -   Antiparallel arrangemet of adjacent betastrands.
+    -   Adjacent polypeptide strands an be parallel or antiparallel.

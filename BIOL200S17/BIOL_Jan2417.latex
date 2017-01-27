@@ -4,46 +4,46 @@
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
+	\usepackage[T1]{fontenc}
+	\usepackage[utf8]{inputenc}
 \else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+	\ifxetex
+	\usepackage{mathspec}
+\else
+	\usepackage{fontspec}
+\fi
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
 \IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
+	\usepackage{microtype}
+	\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+	}{}
 \usepackage{hyperref}
 \hypersetup{unicode=true,
-            pdfborder={0 0 0},
-            breaklinks=true}
+	pdfborder={0 0 0},
+	breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
 \IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
+	\usepackage{parskip}
+	}{% else
+	\setlength{\parindent}{0pt}
+	\setlength{\parskip}{6pt plus 2pt minus 1pt}
 }
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{0}
 % Redefines (sub)paragraphs to behave more like sections
 \ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+	\let\oldparagraph\paragraph
+	\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
 \fi
 \ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+	\let\oldsubparagraph\subparagraph
+	\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
 
 \date{}
@@ -55,163 +55,163 @@
 \subsection{2nd, 3rd, 4th structures}\label{nd-3rd-4th-structures}
 
 \begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  Ionic: stong.
-\item
-  Hydrogren bonding: hydration shell.
+	\def\labelenumi{\arabic{enumi}.}
+	\tightlist
+	\item
+	      Ionic: stong.
+	\item
+	      Hydrogren bonding: hydration shell.
 
-  \begin{itemize}
-  \tightlist
-  \item
-    responsible for 2ndary structures.
-  \end{itemize}
-\item
-  Van der Vaals: weak
-\item
-  Hydrophobic interactions: \textbf{NOT BONDS}, reducing needs for
-  highly ordered water molecules.
+	      \begin{itemize}
+	      	\tightlist
+	      	\item
+	      	      responsible for 2ndary structures.
+	      \end{itemize}
+	\item
+	      Van der Vaals: weak
+	\item
+	      Hydrophobic interactions: \textbf{NOT BONDS}, reducing needs for
+	      highly ordered water molecules.
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Bond strength:
+	      \begin{itemize}
+	      	\tightlist
+	      	\item
+	      	      Bond strength:
 
-    \begin{enumerate}
-    \def\labelenumii{\arabic{enumii}.}
-    \tightlist
-    \item
-      Van
-    \item
-      Ionic
-    \item
-      Hbond
-    \item
-      C-C
-    \item
-      C=C
-    \end{enumerate}
-  \end{itemize}
+	      	      \begin{enumerate}
+	      	      	\def\labelenumii{\arabic{enumii}.}
+	      	      	\tightlist
+	      	      	\item
+	      	      	      Van
+	      	      	\item
+	      	      	      Ionic
+	      	      	\item
+	      	      	      Hbond
+	      	      	\item
+	      	      	      C-C
+	      	      	\item
+	      	      	      C=C
+	      	      \end{enumerate}
+	      \end{itemize}
 \end{enumerate}
 
 \subsection{2ndary structure's rules}\label{ndary-structures-rules}
 
 \begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  Xray diffraction: interatomic bond distances, angles of amino acids
-  chains.
-\item
-  Theoreticral analysis of angles
-\item
-  \textbf{Something else here yo.}
+	\def\labelenumi{\arabic{enumi}.}
+	\tightlist
+	\item
+	      Xray diffraction: interatomic bond distances, angles of amino acids
+	      chains.
+	\item
+	      Theoreticral analysis of angles
+	\item
+	      \textbf{Something else here yo.}
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Planar rotation limitations
+	      \begin{itemize}
+	      	\tightlist
+	      	\item
+	      	      Planar rotation limitations
 
-    \begin{enumerate}
-    \def\labelenumii{\arabic{enumii}.}
-    \tightlist
-    \item
-      \phi
-    \item
-      \psi
-    \end{enumerate}
-  \end{itemize}
-\item
-  Alpha-helix with \textbf{3.6} amino acids/turn
+	      	      \begin{enumerate}
+	      	      	\def\labelenumii{\arabic{enumii}.}
+	      	      	\tightlist
+	      	      	\item
+	      	      	      \phi
+	      	      	\item
+	      	      	      \psi
+	      	      \end{enumerate}
+	      \end{itemize}
+	\item
+	      Alpha-helix with \textbf{3.6} amino acids/turn
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Rise from one alphacarbon-alphacarbond is 1.5 angstrom
-  \end{itemize}
+	      \begin{itemize}
+	      	\tightlist
+	      	\item
+	      	      Rise from one alphacarbon-alphacarbond is 1.5 angstrom
+	      \end{itemize}
 \end{enumerate}
 
 \subsection{Jan 26, 2017}\label{jan-26-2017}
 
 \begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{4}
-\tightlist
-\item
-  Pitch is 5.4 Angstrom
-\item
-  Linus' mistake
+	\def\labelenumi{\arabic{enumi}.}
+	\setcounter{enumi}{4}
+	\tightlist
+	\item
+	      Pitch is 5.4 Angstrom
+	\item
+	      Linus' mistake
 
-  \begin{itemize}
-  \tightlist
-  \item
-    L steriomer
-  \item
-    Rght handed helix
-  \end{itemize}
-\item
-  Helix or not?
+	      \begin{itemize}
+	      	\tightlist
+	      	\item
+	      	      L steriomer
+	      	\item
+	      	      Rght handed helix
+	      \end{itemize}
+	\item
+	      Helix or not?
 
-  \begin{enumerate}
-  \def\labelenumii{\arabic{enumii}.}
-  \tightlist
-  \item
-    Similarly charged residues disrupts helixformation.
-  \item
-    If too many large aminoacids consecutively, helix disrupted.
-  \item
-    Bonding between R groups 3-4 residues apart stabilize.
-  \item
-    P destabilizes helix; \textbf{Proline destabilizes}.
-  \item
-    Negative N terminus, positive C terminus stabilizes helix.
+	      \begin{enumerate}
+	      	\def\labelenumii{\arabic{enumii}.}
+	      	\tightlist
+	      	\item
+	      	      Similarly charged residues disrupts helixformation.
+	      	\item
+	      	      If too many large aminoacids consecutively, helix disrupted.
+	      	\item
+	      	      Bonding between R groups 3---4 residues apart stabilize.
+	      	\item
+	      	      P destabilizes helix; \textbf{Proline destabilizes}.
+	      	\item
+	      	      Negative N terminus, positive C terminus stabilizes helix.
 
-    \begin{itemize}
-    \tightlist
-    \item
-      Leads to dipole across peptide bond.
-    \end{itemize}
-  \end{enumerate}
-\item
-  Circular dichroism
+	      	      \begin{itemize}
+	      	      	\tightlist
+	      	      	\item
+	      	      	      Leads to dipole across peptide bond.
+	      	      \end{itemize}
+	      \end{enumerate}
+	\item
+	      Circular dichroism
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Random coil, betasheet, alphahelix interact with light differently.
-  \item
-    Measures amount of secondary structures.
-  \end{itemize}
-\item
-  Betasheet
+	      \begin{itemize}
+	      	\tightlist
+	      	\item
+	      	      Random coil, betasheet, alphahelix interact with light differently.
+	      	\item
+	      	      Measures amount of secondary structures.
+	      \end{itemize}
+	\item
+	      Betasheet
 
-  \begin{itemize}
-  \tightlist
-  \item
-    3.5 angstrom between adjacent amino acids, vs.~1.5 in alphahelix.
-  \item
-    Fully extended.
-  \item
-    Antiparallel arrangemet of adjacent betastrands.
-  \item
-    Adjacent polypeptide strands an be parallel or antiparallel.
-  \end{itemize}
-\item
-  Folding
+	      \begin{itemize}
+	      	\tightlist
+	      	\item
+	      	      3.5 angstrom between adjacent amino acids, vs.~1.5 in alphahelix.
+	      	\item
+	      	      Fully extended.
+	      	\item
+	      	      Antiparallel arrangemet of adjacent betastrands.
+	      	\item
+	      	      Adjacent polypeptide strands an be parallel or antiparallel.
+	      \end{itemize}
+	\item
+	      Folding
 
-  \begin{itemize}
-  \tightlist
-  \item
-    Fewer than 1/billion random polypeptides folds into organized
-    structures.
-  \item
-    Folding energy is low; most protein close to unfolded state.
-  \item
-    Genes encoded for folding seleted by evolution.
-  \item
-    Folded diffently every time.
-  \end{itemize}
+	      \begin{itemize}
+	      	\tightlist
+	      	\item
+	      	      Fewer than 1/billion random polypeptides folds into organized
+	      	      structures.
+	      	\item
+	      	      Folding energy is low; most protein close to unfolded state.
+	      	\item
+	      	      Genes encoded for folding seleted by evolution.
+	      	\item
+	      	      Folded diffently every time.
+	      \end{itemize}
 \end{enumerate}
 
 \end{document}

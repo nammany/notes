@@ -8,6 +8,7 @@
   - responsible for 2ndary structures.
 
 3. Van der Vaals: weak
+
 4. Hydrophobic interactions: **NOT BONDS**, reducing needs for highly ordered water molecules.
 
   - Bond strength:
@@ -39,11 +40,10 @@
 2. Linus' mistake
 
   <br\>
-    <ul>
-    <li>L steriomer</li>
-    <li>Rght handed helix</li>
-  </ul>
   </br\>
+
+  - L steriomer
+  - Rght handed helix
 
 3. Helix or not?
 
@@ -82,6 +82,7 @@
     - Calmodulin changes confirmation dramatically when binded to Ca+ ions.
 
   2. Zinc fingers; some transcription proteins have _multiple_ zingfingers.
+
   3. Coiled-coiled
 
     - Appear in proteins with diverse functions.
